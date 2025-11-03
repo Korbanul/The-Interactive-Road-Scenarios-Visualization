@@ -32,9 +32,15 @@ This project, **Interactive Road Scenarios Visualization**, is a dynamic OpenGL-
 - **GLUT**: For windowing and user input handling.
 - **C++**: Core programming language.
 - **Audio Integration**: Added background music using `#include <mmsystem.h>`.
+<img width="960" height="540" alt="Screenshot 2025-11-03 221918" src="https://github.com/user-attachments/assets/586dbb25-b047-4164-89a8-1525151ff71b" />
+
+<img width="960" height="540" alt="Screenshot 2025-11-03 222035" src="https://github.com/user-attachments/assets/121f72ae-04f3-4ab7-8a3c-fd146626544d" />
+
+<img width="960" height="540" alt="Screenshot 2025-11-03 221949" src="https://github.com/user-attachments/assets/82b70791-2fe6-4c31-8b18-25d0c22a0b93" />
+
+<img width="960" height="540" alt="Screenshot 2025-11-03 222004" src="https://github.com/user-attachments/assets/8da18746-be31-4d81-ba82-ca3cbb36efaf" />
 
 ---
-
 ## Applications
 - Gaming and simulation.
 - Urban planning and infrastructure visualization.
